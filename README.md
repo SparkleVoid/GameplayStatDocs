@@ -1,2 +1,2 @@
-# [Check the Wiki](../../wiki)
+# [Check the Wiki for the documentation](../../wiki)
 
