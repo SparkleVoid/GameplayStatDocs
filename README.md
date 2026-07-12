@@ -1,4 +1,2 @@
-# FabDocsPluginsTemplate
-Document plugins template for Fab asset
+# [Check the Wiki](https://github.com/SparkleVoid/GameplayStatDocs/wikiurl)
 
-(tete)[#../../../wiki]
